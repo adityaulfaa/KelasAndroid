@@ -168,7 +168,7 @@ fun showMerkFnB() {
                         modifier = circle
                     )
                     Text(
-                        text = "Rakyat Mampu! 8.5/10⭐",
+                        text = "Yang Mampu! 8.5/10⭐",
                         fontSize = 16.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
@@ -191,7 +191,7 @@ fun showMerkFnB() {
                         modifier = circle
                     )
                     Text(
-                        text = "Dari Rakyat dan Untuk Rakyat! 8/10⭐",
+                        text = "Merakyat! 8/10⭐",
                         fontSize = 16.sp,
                         color = Color.White,
                         textAlign = TextAlign.Center
